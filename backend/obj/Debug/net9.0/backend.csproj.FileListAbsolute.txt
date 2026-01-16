@@ -1,0 +1,15 @@
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\bin\Debug\net9.0\backend.exe
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\bin\Debug\net9.0\backend.deps.json
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\bin\Debug\net9.0\backend.dll
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\bin\Debug\net9.0\backend.pdb
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\obj\Debug\net9.0\backend.sourcelink.json
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\obj\Debug\net9.0\backend.dll
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\obj\Debug\net9.0\refint\backend.dll
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\obj\Debug\net9.0\backend.pdb
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+C:\Projects\ISRPO\Lab1_ISRPO_Morozova\backend\obj\Debug\net9.0\ref\backend.dll
